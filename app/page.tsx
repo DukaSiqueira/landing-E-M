@@ -10,7 +10,7 @@ import Head from "next/head"
 
 export default function RomanticWebsite() {
   // 🌹 CONFIGURAÇÕES FÁCEIS DE EDITAR 🌹
-  const RELATIONSHIP_START_DATE = "2022-03-24" // Formato: YYYY-MM-DD
+  const RELATIONSHIP_START_DATE = "2022-03-23" // Formato: YYYY-MM-DD
   const COUPLE_PHOTOS = [
     "/arena.jpg?height=400&width=600",
     "/beatz.jpg?height=400&width=600",
